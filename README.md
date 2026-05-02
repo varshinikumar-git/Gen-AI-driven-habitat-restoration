@@ -122,12 +122,12 @@ python src/restoration/final_restoration.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Logavarshini K <br>
 B.Tech Robotics and Artificial Intelligence
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 This project explores the intersection of **Generative AI and environmental sustainability**, contributing toward intelligent ecosystem restoration.
